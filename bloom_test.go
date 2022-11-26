@@ -6,7 +6,7 @@ import (
 
 	"encoding/binary"
 	"github.com/alicebob/miniredis"
-	"github.com/bculberson/bloom"
+	"github.com/Fngg/bloom"
 	"github.com/garyburd/redigo/redis"
 )
 
